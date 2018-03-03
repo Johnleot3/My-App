@@ -1,0 +1,68 @@
+/* style.css */
+body{
+  background: rgb(187,210,220);
+  color: rgb(3,41,60);
+  font-size: 25px;
+  font-family: Lato;
+}
+h1{
+  font-family: Courier;
+  color: rgb(5,66,95);
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: Courier;
+  color: rgb(2,17,24);
+  font-weight: lighter;
+  font-size: 10px;
+  font-family: Montserrat;
+}
+a {
+  color: rgb(73,135,164);
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#John{
+  font-size: 40;
+  color: rgb(24, 90, 99)
+}
+.Mont{
+  font-family: Montserrat;
+  font-style: italic;
+  font-size: 15px;
+}
+div {
+  border: 1px solid rgb(24, 90, 99);
+  
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+#content{
+  background-color:#ffffff;
+
+}
+/* Flexbox */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
